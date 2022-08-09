@@ -1,0 +1,2 @@
+!function(){"use strict";const n=3-1;const o=function(){for(var n=arguments.length,o=new Array(n),c=0;c<n;c++)o[c]=arguments[c];return o.reduce(((n,o)=>n+o))}(1,2,3),c=function(n,o){return n*o}(2,5);console.log(`count:${n}`),console.log(`sum:${o}`),console.log(`mul:${c}`)}();
+//# sourceMappingURL=main.js.map
